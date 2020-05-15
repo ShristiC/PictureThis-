@@ -1,6 +1,4 @@
-# s20-community-culture
-
-#PictureThis!
+# PictureThis!
 
 A mobile app developed in correspondence with Texas Convergent for Spring 2020 as part of a community culture project. Developed in a team of 5 people. 
 
